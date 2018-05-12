@@ -1,0 +1,33 @@
+_repo: White-Lilac--or-the-Queen-of-the-May_21228
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walton, Amy
+    birthdate: 1848
+    deathdate: 1899
+    gutenberg_agent_id: '32944'
+    url: http://www.gutenberg.org/2009/agents/32944
+description: ''
+gutenberg_issued: '2007-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Children and death -- Juvenile fiction'
+- !lcsh 'Fatherless families -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Wealth -- Juvenile fiction'
+- !lcsh 'Poachers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Jealousy -- Juvenile fiction'
+title: White Lilac; or the Queen of the May
+url: http://www.gutenberg.org/ebooks/21228
